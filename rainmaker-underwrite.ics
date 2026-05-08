@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Growth Circle//Rainmaker Underwrite//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:rainmaker-underwrite-2026-05-14@growyournetworth.com
+DTSTAMP:20260508T120000Z
+DTSTART:20260514T163000Z
+DTEND:20260514T173000Z
+SUMMARY:Rainmaker Underwrite & Q&A - Growth Circle
+DESCRIPTION:Underwrite and Q&A call for the Rainmaker deal. Round structure\, dilution\, portfolio fit\, and any open questions before the commit form goes live.\n\nJoin via Zoom: https://us06web.zoom.us/j/82270704422
+LOCATION:https://us06web.zoom.us/j/82270704422
+URL:https://us06web.zoom.us/j/82270704422
+END:VEVENT
+END:VCALENDAR
